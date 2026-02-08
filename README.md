@@ -1,55 +1,52 @@
-# 📊 Power BI Dashboard – E-commerce Sales Insights
+# 📊 Data Analysis Dashboard
 
-## 🚀 Project Overview
-This repository contains my **Task-1 deliverable** from the **Future Intern: Data Science & Analytics Internship**.  
-I designed and developed a **Business Sales Dashboard** in **Power BI** using real-world e-commerce data to uncover insights into sales performance, product trends, and customer behavior.
-
----
-
-## 🎯 Objectives
-- Analyze monthly and yearly sales trends
-- Identify top-performing products and categories
-- Visualize country-wise sales distribution
-- Provide key performance indicators (KPIs) for business decision-making
+## Project Title  
+Interactive Data Analysis Dashboard using Real-Time Dataset
 
 ---
 
-## 🛠️ Key Features
-- **KPI Cards**: Total Sales, Total Orders, Average Order Value  
-- **Line Chart**: Month-wise sales trend  
-- **Bar Chart**: Top 10 products driving revenue  
-- **Treemap**: Category contribution to overall sales  
-- **Map Visual**: Country-wise sales distribution  
-- **Slicers**: Interactive filters for Year, Month, Category, and Country  
+## 📌 Description  
+This project is a data analysis dashboard designed to transform real-time or updated datasets into meaningful visual insights. The dashboard displays charts and graphs that help users easily understand trends, comparisons, and patterns in the data.
+
+The main purpose is to make data easy to read, analyze, and interpret without needing technical knowledge.
 
 ---
 
-## 🧠 Skills Applied
-- Data cleaning & transformation with **Power Query**
-- Calculated columns & measures using **DAX**
-- Dashboard storytelling & layout design
-- Business analytics & visualization best practices
+## 🎯 Objectives  
+- To analyze a real-time dataset  
+- To visualize data using charts and graphs  
+- To present data in a simple and interactive dashboard  
+- To help users understand trends and key information  
 
 ---
 
-## 📌 Insights
-- **November** showed peak sales due to seasonal demand  
-- **Electronics & Fashion** categories contributed the highest revenue  
-- Certain countries consistently outperformed others in terms of sales volume  
+## 📊 Dataset  
+The dashboard uses a real-time or latest dataset collected from a reliable data source such as government portals, open data platforms, or online data repositories.
 
 ---
 
-## 📂 Repository Contents
-- `Dashboard.pbix` → Power BI dashboard file  
-- `Dataset.xlsx` → Cleaned e-commerce dataset used for analysis  
-- `README.md` → Documentation of the project  
+## 📈 Dashboard Features  
+- Bar Charts  
+- Line Charts  
+- Pie Charts  
+- Trend Analysis  
+- Data comparison  
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License – feel free to use and adapt with attribution.
+## 🧩 Use Case  
+This dashboard can be used for:
+- Academic analysis  
+- Business data analysis  
+- Government data interpretation  
+- Research and reporting  
 
 ---
 
-## 🙌 Acknowledgements
-Special thanks to the **Future Intern Program** for providing the opportunity to work on real-world data and sharpen my analytics skills.
+## 🏁 Conclusion  
+The Data Analysis Dashboard provides a clear and effective way to visualize and interpret data. It transforms complex numerical data into graphical insights that support better understanding and decision-making.
+
+---
+
+## 👤 Submitted By  
+**Tamilarasi B**
